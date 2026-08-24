@@ -31,11 +31,11 @@
 ### 🚀 About Me
 
 ```yaml
-name: "Your Name"
-role: "Full Stack Engineer"
+name: "Nidhish Javvadi "
+role: "Curious "
 location: "Earth 🌍"
 passions: ["Building Products", "System Architecture", "Open Source", "Clean Code"]
-currently_learning: ["AI Agent Architectures", "Distributed Systems", "Rust"]
+currently_learning: ["AI Agent Architectures", "Distributed Systems",]
 fun_fact: "I turn coffee ☕ into clean, tested pull requests."
 ```
 
