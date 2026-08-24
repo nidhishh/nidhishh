@@ -102,7 +102,7 @@ fun_fact: "I turn coffee ☕ into clean, tested pull requests."
 | 🧠 **ArchitectOS Research Agent** | Autonomous multi-agent framework for deep automated research, synthesis & tool execution. | `Python` `LangChain` `Ollama` `FastAPI` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/architectos-researchagent) |
 | ⚡ **Local LLM High-Speed Gateway** | High-throughput streaming proxy & router for Ollama and local quantized models. | `Bun` `TypeScript` `Docker` `Redis` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/local-llm-gateway) |
 | 👁️ **Vision & Document Intelligence** | Intelligent OCR and document information extraction pipeline with structured JSON parsing. | `PyTorch` `EasyOCR` `Python` `OpenCV` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/doc-vision-ocr) |
-| 🌐 **Agentic Orchestration Dashboard** | Real-time interactive UI for monitoring, tracing, and steering agent workflows. | `Next.js` `React` `TailwindCSS` `Supabase` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/agent-dashboard) |
+
 
 ---
 
