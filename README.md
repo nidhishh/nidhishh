@@ -99,10 +99,10 @@ fun_fact: "I turn coffee ☕ into clean, tested pull requests."
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| ⚡ **Project Alpha** | Real-time collaborative dashboard with high-concurrency event stream. | `React` `Next.js` `FastAPI` `Redis` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/project-alpha) |
-| 🤖 **AI Agent Hub** | Autonomous AI agent framework for task execution & automated code review. | `Python` `LangChain` `OpenAI` `Docker` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/ai-agent-hub) |
-| 🛡️ **DevSec Shield** | Security scanner CLI for detecting secrets & dependency vulnerabilities. | `Go` `GitHub Actions` `GraphQL` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/devsec-shield) |
-| 📦 **Modern UI Kit** | Accessible, responsive design system & component library with TailwindCSS. | `TypeScript` `TailwindCSS` `Storybook` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/modern-ui-kit) |
+| 🧠 **ArchitectOS Research Agent** | Autonomous multi-agent framework for deep automated research, synthesis & tool execution. | `Python` `LangChain` `Ollama` `FastAPI` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/architectos-researchagent) |
+| ⚡ **Local LLM High-Speed Gateway** | High-throughput streaming proxy & router for Ollama and local quantized models. | `Bun` `TypeScript` `Docker` `Redis` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/local-llm-gateway) |
+| 👁️ **Vision & Document Intelligence** | Intelligent OCR and document information extraction pipeline with structured JSON parsing. | `PyTorch` `EasyOCR` `Python` `OpenCV` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/doc-vision-ocr) |
+| 🌐 **Agentic Orchestration Dashboard** | Real-time interactive UI for monitoring, tracing, and steering agent workflows. | `Next.js` `React` `TailwindCSS` `Supabase` | [View Repo ↗](https://github.com/YOUR_GITHUB_USERNAME/agent-dashboard) |
 
 ---
 
