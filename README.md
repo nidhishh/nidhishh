@@ -18,11 +18,7 @@
     <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 
-  <!-- Profile Visitor Counter & Follower Status -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=38bdf8" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=22c55e" alt="Followers" />
-  </p>
+  <!-- Profile Visitor Counter & Follower Status --
 
 </div>
 
